@@ -1,0 +1,6 @@
+
+.DS_store
+.git
+docs/.ipynb_checkpoints
+node_modules/
+npm-debug.log
